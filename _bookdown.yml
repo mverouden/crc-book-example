@@ -1,4 +1,4 @@
-book_filename: "CRC Book example"
+book_filename: "CRC_Book_example"
 clean: [packages.bib, bookdown.bbl]
 delete_merged_file: true
 language:
